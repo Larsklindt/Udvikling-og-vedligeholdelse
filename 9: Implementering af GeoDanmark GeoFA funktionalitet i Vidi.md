@@ -22,3 +22,4 @@ Det foreslås, at MapCentia estimerer opgaven og fremlægger en plan for impleme
 
 ## 9. Tilsagn/tilkendegivelse
 Geo Fyn ++
+Geopartner ++
